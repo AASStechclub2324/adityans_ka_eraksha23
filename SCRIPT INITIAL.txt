@@ -1,8 +1,67 @@
-1. THREAT ACTOR RESEARCHES VICTIM USING OSINT(OPEN SOURCE INTELLIGENCE) AND SOCIAL ENGINEERING
 
+char1 victim
+char2 threat actor
+char3 - char7 cyber defense team
+
+
+1. THREAT ACTOR RESEARCHES VICTIM USING OSINT(OPEN SOURCE INTELLIGENCE) AND SOCIAL ENGINEERING
+ 
 2. THREAT ACTOR SCAMS/EXPLOITS VICTIM USING INTEL GATHERED IN STEP 1, SOCIAL ENGINEERING. COLLECTS SENSITIVE INFO, BANK INFORMATION AND PERFORMS TRANSACTION TO OWN BANK USING UNTRACEABLE SWIFT ACCOUNT.
 
+	### SCRIPT #######
+	
+	Scene1: 
+
+	SCENE SETUP:
+
+	char2 in own hacking setup in own home. dark setting. luminance by screen light.
+ 
+	DIALOGUE : None
+	
+	POINTS OF FOCUS throughout scene: 
+
+	1. Keyboard + eyes
+	2. Monitor screen focus from beyond actor
+	3. Focus on actor with monitor out of focus but as source of light and on screen
+
+	Type: montage
+ 
+	Duration: 30 sec (max).
+
+	## SCRIPT END ####
+
+
 3. VICTIM REALIZES AND INFORMS LAW/AUTHORITY. INCIDENT RESPONDERS ARE CALLED AND PERFORMS DIGITAL FORENSICS.
+
+	### SCRIPT ###
+
+	Scene2:
+
+	SCENE SETUP:
+
+	char1 in casual friend setup group of atmost 5. 
+	1. Just watched recent cinema in theaters and come out of the hall.
+	all engulfed in checking social media, posting themselves, checking others' reaction of the movie etc.
+
+					OR			
+
+	2. Exited school, fooling around in a group near a stall. all engulfed in checking social media, posting themselves, checking others' posts etc.
+
+	TIME: 5 SEC / 7 SEC(MAX)
+
+	char1 discovers exploit. initial point of contact is from threat actor(char2) via personalized messages. scene shows personal data gained by
+	char2, along with intent to use such data to exploit char1.
+
+	info includes the following:
+		pics
+		banking credentials (indirect proof)
+
+	few words of scorn, after pleading with threat actor, from victim before reporting char2 to cybercrime portal.
+
+	DURATION: 20 SEC
+
+	### SCRIPT END ###
+	
 
 4. FORENSICS SHOW THE FOLLOWING:
 
@@ -15,6 +74,8 @@
 	DIGITAL FOOTPRINT OF OSINT WHICH LEADS TO  IDENTIFIABLE DIGITAL ALIAS OF THREAT ACTOR.
 
 5. ON FURTHER INVESTIGATION, THREAT ACTORS ALIAS REVEALS TO HAVE ACHIEVED FIRST CONTACT WITH VICTIM VIA SOCIAL MEDIA MESSAGING/DM'S THREE AND A HALF MONTHS BEFORE INCIDENT.
+
+
 
 6. THREAT ACTORS GET ARRESTED ON SUSPICION, AND FACES VICTIM IN A LAW COURT. EVIDENCE POINTS TO HIS INVOLVEMENT THROUGH OSINT, BUT INCRIMINATING ILLEGAL DIGITAL EVIDENCE CANNOT BE FOUND. 
 
