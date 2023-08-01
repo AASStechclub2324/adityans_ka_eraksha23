@@ -1,0 +1,50 @@
+
+CYBER SECURITY---------								 
+
+Hey everyone, welcome to our blog and here we will discuss about cybercrime and the following measures that netizens should follow to protect themselves from cybercrime.
+So first we will talk about cybercrime and how it threatens the netizens.
+
+CYBER CRIME------
+We know that cybercrime is a type of crime which involves a computer or a computer network. The computer may have been used in committing the crime, or it may be the target. Cybercrime may harm someone's security or finances.
+
+STATISTICAL PART-------
+
+Internationally, both state and non-state actors (state actors- state actor is a person who is acting on behalf of a governmental body, and is therefore subject to limitations imposed by government; non state actors- A non-state actor are organizations and/or individuals that are not affiliated with, directed by, or funded by any government) engage in cybercrimes, including financial theft and other cross-border crimes. Cybercrimes crossing international borders and involving the actions of at least one nation-state are sometimes referred to as cyberwarfare. 
+
+We came to know in a report of 2014 which was sponsored by McAfee estimated that cybercrime had resulted in $445 billion USD in annual damage to the global economy. Approximately $1.5 billion was lost in 2012 to online credit and debit card fraud in the US. In 2018, a study by the Centre for Strategic and International Studies (CSIS), in partnership with McAfee, concluded that nearly 1 percent of global gross domestic product (GDP), close to $600 billion, is lost to cybercrime each year.
+
+The World Economic Forum 2020 Global Risk Report confirmed that organized cybercrime groups are joining forces to commit criminal activities online, while estimating the likelihood of their detection and prosecution to be less than 1 percent in the US. There are also many privacy concerns surrounding cybercrime when confidential information is intercepted or disclosed, legally or otherwise.
+
+IMPACTS OF CYBER CRIME IN OUR SOCIETY -----
+
+After all introduction and statistical descriptions of cybercrimes,
+We are now approaching towards its impact in our society.
+
+In India, we have seen a substantial increase in cybercrime recently which is posing a growing threat to both culture and economy in our near future. As days are passing by, cybercriminals have discovered new ways to take advantage of flaws and carry out their nefarious activities like online harassment and cyber stalking which are the major issues that are becoming increasingly prevalent in today's digital age. Additionally, cybercrime can have far reaching consequences for society starting from economic impacts to national security. 
+
+Beyond financial losses, cybercrime also breaches privacy and compromises data security which leads to severe social implications. Individuals become vulnerable to identity theft, fraud and harassment, eroding trust in online platforms and impacting mental well-being. Furthermore, cybercrime presents unique challenges for law enforcement agencies in India. The cross-border nature of cyber criminals’ activities makes it difficult to trace and apprehend perpetrators.
+
+Additionally, the judicial system faces obstacles in handling cybercrimes cases, including delays and the need for specialized expertise, hindering justice delivery.
+
+CYBER SECURITY -------------
+Now we enter to our last topic of our blog that is "Cyber Security" and we'll discuss about the following measures that should be taken by every netizen.
+
+DEFINITION AND ITS MEASURES --------
+Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. The world relies on technology more than ever before. As a result , digital data creation has surged. Today, bussiness and governments store a great deal of that data on computers and transmit it across networks to  other computer. Devices and their underlying systems have vulnerabilities that, when exploited, undermine the health and objectives of an organization.
+
+THE FOLLOWING MEASURES OF CYBER SECURITY :
+
+1. Establish a robust cybersecurity policy A cybersecurity policy serves as a formal guide to all measures used in your company to improve cybersecurity efficiency. The policy helps your security specialists and employees to be on the same page and describes essential and company-wide information security practices. Consider implementing a hierarchical cybersecurity policy that consists of a single centralized policy and additional policies uniquely designed for each department within your organization. A hierarchical cybersecurity policy takes into account each department’s unique needs, helping you increase overall cybersecurity policy effectiveness and avoid disrupting departments’ workflows.
+
+2. Manage passwords wisely Employee credentials give cybercriminals direct access to your sensitive data and valuable business information. Brute force attacks, social engineering, and other methods can be used to compromise your employees’ credentials without your employees knowing. Organizations often use specialized password management [PDF] tools to prevent such attacks. Such solutions can give you control over your employees’ credentials, reducing the risk of account compromise. Give preference to password management tools that provide passwordless authentication, one-time passwords, and password encryption capabilities. 
+
+3. Manage passwords wisely. Employee credentials give cybercriminals direct access to your sensitive data and valuable business information. Brute force attacks, social engineering, and other methods can be used to compromise your employees’ credentials without your employees knowing. Organizations often use specialized password management [PDF] tools to prevent such attacks. Such solutions can give you control over your employees’ credentials, reducing the risk of account compromise. Give preference to password management tools that provide passwordless authentication, one-time passwords, and password encryption capabilities. If you still trust employees to manage their own passwords, consider adding the following recommendations to your cybersecurity policy:
+
+
+CONCLUSION-----------------------
+
+Today due to high internet penetration, cybersecurity is one of the biggest need of the world as cybersecurity threats are very dangerous to the country’s security. Not only the government but also the citizens should spread awareness among the people to always update your system and network security settings and to the use proper anti-virus so that your system and network security settings stay virus and malware-free.
+
+
+
+		
