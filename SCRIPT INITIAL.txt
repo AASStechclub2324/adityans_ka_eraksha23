@@ -14,7 +14,7 @@ char3 - char7 cyber defense team
 
 	SCENE SETUP:
 
-	char2 in own hacking setup in own home. dark setting. luminance by screen light.
+	char2 in own hacking setup in own home. dark setting. dimly lit. flickering neon lights. luminance by screen light.
  
 	DIALOGUE : None
 	
@@ -27,6 +27,17 @@ char3 - char7 cyber defense team
 	Type: montage
  
 	Duration: 30 sec (max).
+
+	Dialogue: 
+	
+	Voiceover (VO) by victim, breaking fourth wall:
+	
+	char1 (VO): Hello, friend. I know what you're thinking: "Who is this guy, and why is he talking to me?" Trust me, I'd rather not be here either, but you deserve to know my story.
+	char1 (VO): No. This is not me. 
+	char1 (VO): Meet {char2} ### FREEZE FRAME WITH DIGITAL NAME TAG ###, someone who exploits people using social engineering and open source intelligence.
+	char1 (VO): The upper hand {NARRATION BREAK} all of it is on the right side of the law. Yeah, it's legal.
+
+	CUT TO BLACK. TITLE CARD FOR FILM (3-5 SEC)
 
 	## SCRIPT END ####
 
@@ -60,6 +71,14 @@ char3 - char7 cyber defense team
 
 	DURATION: 20 SEC
 
+	Dialogue:
+	
+	char1 (VO): That's me.
+
+	(background sound - usual friend group chatter)
+
+	char1 (VO): And that, is my life falling apart, the moment it all changed for me.
+
 	### SCRIPT END ###
 	
 
@@ -73,16 +92,80 @@ char3 - char7 cyber defense team
 
 	DIGITAL FOOTPRINT OF OSINT WHICH LEADS TO  IDENTIFIABLE DIGITAL ALIAS OF THREAT ACTOR.
 
-5. ON FURTHER INVESTIGATION, THREAT ACTORS ALIAS REVEALS TO HAVE ACHIEVED FIRST CONTACT WITH VICTIM VIA SOCIAL MEDIA MESSAGING/DM'S THREE AND A HALF MONTHS BEFORE INCIDENT.
+################ TECHNICAL ############################
+
+
+ALL DATA IS ON A MALTEGO CE GRAPH ON ONE MONITOR
+OTHER TWO MONITORS WILL HAVE SPECIIC DATA
+
+### OSINT DATA GATHERED ###############################
+
+NAME: XXXX XXXXXXXXXXX
+
+M - Jio
+0XXXXXXXX XXXXX771
+
+Address
+XXXXXXX, India ⸱ Local time XX:39
+
+Email
+XXXXXXXXXXXXXXXXXX@gmail.com
+
+School: XXXXXXXX XXXXXXXX XXXXXXXXXXXXXX XXXXXXXXX
+
+
+[+]Phone Number: +91XXXXXXXX71	
+[+]Country: India
+[+]Time Zone: Asia/Calcutta
+[+]Operator: Reliance Jio
+[+]Validity: This PhoneNumber is valid.
+
+[+]Facebook Report: Not Connected
+[+]Instagram Report: Connected
+[+]Twitter Report: Not Connected
+[+]Google Report: Connected
+[+]Microsoft Report: Connected
+[+]Whatsapp Report: Connected
+
+
+🙋 Google Account data
+
+Name : **** *****************ty
+
+[+] Custom profile picture !
+=> https://lh3.googleusercontent.com/a-/AD_cMMT****************94jiAq_WaTJ08KSwH5JL0KFxzXFA
+🎭 [+] Face detected !
+
+[-] Default cover picture
+
+Last profile edit : 2023/XX/XX 05:XX:09 (UTC)
+
+Email : rXXX.XXXXXXXXty@gmail.com
+Gaia ID : 11364XXXXXX50507091
+
+[+] Activated Google services :
+- Youtube
+- Photos
+- Maps
+
+🗺 Maps data
+
+Profile page : https://www.google.com/maps/contrib/1XXXXXXXXX87150507091/reviews
 
 
 
-6. THREAT ACTORS GET ARRESTED ON SUSPICION, AND FACES VICTIM IN A LAW COURT. EVIDENCE POINTS TO HIS INVOLVEMENT THROUGH OSINT, BUT INCRIMINATING ILLEGAL DIGITAL EVIDENCE CANNOT BE FOUND. 
+
+### TECHNICAL END ################################################
+
+
+5. ON FURTHER INVESTIGATION, THREAT ACTOR'S ALIAS REVEALS TO HAVE ACHIEVED FIRST CONTACT WITH VICTIM VIA SOCIAL MEDIA MESSAGING/DM'S THREE AND A HALF MONTHS BEFORE INCIDENT.
+
+6. THREAT ACTORS MEETS VICTIM IN A CASUAL SETTING PERSONAL TO THEM. 
 
 6.1 VICTIMS VERBAL REACTION TO THREAT ACTOR.
 6.2 THREAT ACTORS BLAMES FAULT ON VICTIM FOR KEEPING INFORMATION OPEN SOURCED.
 
-7. BLUE TEAMERS AND CYBER DEFENSE SPECIALISTS OBTAIN SUBTLE RETRIBUTION AGAINST THREAT ACTOR USING SIMILAR OSINT TOOLS
+7. VICTIM MEETS WITH BLUE TEAM LEAD AND DISCUSSES SITUATION, AND HOW THE MESSAGE CAN BE SPREAD TO MAKE OTHERS AWARE
 
-8.DENOUNCMENT - THREAT ACTOR REGRETS AS SHE RECEIVES INCRIMINATING DATA FROM THE CYBER ANALYST TEAM. OTHER VICTIMS COME FORWARD OR TRY TO. MESSAGE ABOUT CYBER AWARENESSS
+8.MONTAGE OF MULTIPLE VICTIMS OR POTENTIAL VICTIMS LOCKING UP THEIR INFORMATION, SETTING UP PROTECTIVE MEASURES AS THE ONLY MESSAGE THAT FLASHES THE SCREEN OF OUR THREAT ACTOR IS "ACCESS DENIED" AND "NO INFORMATION"
  
