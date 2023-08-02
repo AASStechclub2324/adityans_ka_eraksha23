@@ -3,6 +3,55 @@ char1 victim
 char2 threat actor
 char3 - char7 cyber defense team
 
+VO - Victim char1 POV
+
+	Dialogue: (Scene 1) 
+	
+	Voiceover (VO) by victim, breaking fourth wall:
+	
+	char1 (VO): Hello. I know what you're thinking: "Who is this guy, and why is he talking to me?" Trust me, I'd rather not be here either, but you deserve to know my story.
+	char1 (VO): No. This is not me. 
+	char1 (VO): Meet {char2} ### FREEZE FRAME WITH DIGITAL NAME TAG ###
+	
+	char2 VO
+
+	char1 (VO): The upper hand {NARRATION BREAK} - all of it is on the right side of the law. Yeah, it's legal.
+
+	CUT TO BLACK. TITLE CARD FOR FILM (3-5 SEC)
+
+	Dialogue: (Scene 2)
+	
+	char1 (VO): That's me.
+
+	(background sound - usual friend group chatter)
+	
+	char1 discovers that he has been exploited
+
+	char1 (VO): And that, is my life falling apart, the moment it all changed for me.
+
+
+VO - Threat Actor char2 POV
+
+	Dialogue: (Scene 1)
+
+	char2 (VO): Hello, friend.
+	char2 (VO): Your life, it's not as private as you think.
+	char2 (VO): The digital world, it's full of shadows. And this - {pans FOCUS TO cyber surveillance methods on monitors (physical or digitally edited or a mix of both)} - 
+									this is just a reflection of the world you live in - a world, where privacy is an illusion.
+
+	char1 (VO): ... The upper hand ...
+
+
+Ideas:
+
+	till climax meet between char1 and char2, char1 will not know the identity of char2 as the threat actor. upon meeting, 
+
+{char1 asks char2 where she had been while his life was literally thrown inside out}, 
+		or
+{char1 begins to thank her for being there to support him after he had been exploited and humiliated}
+
+as she undergoes the character change from a significant other to her underlying coldhearted threat actor.
+
 
 1. THREAT ACTOR RESEARCHES VICTIM USING OSINT(OPEN SOURCE INTELLIGENCE) AND SOCIAL ENGINEERING
  
@@ -26,18 +75,7 @@ char3 - char7 cyber defense team
 
 	Type: montage
  
-	Duration: 30 sec (max).
-
-	Dialogue: 
-	
-	Voiceover (VO) by victim, breaking fourth wall:
-	
-	char1 (VO): Hello, friend. I know what you're thinking: "Who is this guy, and why is he talking to me?" Trust me, I'd rather not be here either, but you deserve to know my story.
-	char1 (VO): No. This is not me. 
-	char1 (VO): Meet {char2} ### FREEZE FRAME WITH DIGITAL NAME TAG ###, someone who exploits people using social engineering and open source intelligence.
-	char1 (VO): The upper hand {NARRATION BREAK} all of it is on the right side of the law. Yeah, it's legal.
-
-	CUT TO BLACK. TITLE CARD FOR FILM (3-5 SEC)
+	Duration: 1 min - 1 min 15 sec (max).
 
 	## SCRIPT END ####
 
@@ -69,15 +107,7 @@ char3 - char7 cyber defense team
 
 	few words of scorn, after pleading with threat actor, from victim before reporting char2 to cybercrime portal.
 
-	DURATION: 20 SEC
-
-	Dialogue:
-	
-	char1 (VO): That's me.
-
-	(background sound - usual friend group chatter)
-
-	char1 (VO): And that, is my life falling apart, the moment it all changed for me.
+	DURATION: 30 SEC (max)
 
 	### SCRIPT END ###
 	
