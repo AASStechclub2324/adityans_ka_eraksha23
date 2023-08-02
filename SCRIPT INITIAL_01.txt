@@ -1,0 +1,226 @@
+
+char1 victim
+char2 threat actor
+char3 - char7 cyber defense team
+
+VO - Victim char1 POV
+
+VO - Threat Actor char2 POV
+
+	char1 (VO): ... The upper hand ...
+
+
+Ideas:
+
+	till climax meet between char1 and char2, char1 will not know the identity of char2 as the threat actor. upon meeting, 
+
+{char1 asks char2 where she had been while his life was literally thrown inside out}, 
+		or
+{char1 begins to thank her for being there to support him after he had been exploited and humiliated}
+
+as she undergoes the character change from a significant other to her underlying coldhearted threat actor.
+
+
+### SCRIPT #######
+	
+	Scene1: 
+
+	SCENE SETUP:
+
+	char2 in own hacking setup in own home. dark setting. dimly lit. flickering neon lights. luminance by screen light.
+ 
+	DIALOGUE : None
+	
+	POINTS OF FOCUS throughout scene: 
+
+	1. Keyboard + eyes
+	2. Monitor screen focus from beyond actor
+	3. Focus on actor with monitor out of focus but as source of light and on screen
+
+	Type: montage
+ 
+	Duration: 1 min - 1 min 15 sec (max).
+
+	--------------------------------------------------------------------------------
+
+	Dialogue: (Scene 1) 
+	
+	Voiceover (VO) by victim, breaking fourth wall:
+	
+	char1 (VO): Hello. I know what you're thinking: "Who is this guy, and why is he talking to me?" Trust me, I'd rather not be here either, but you deserve to know my story.
+	char1 (VO): No. This is not me. 
+	char1 (VO): Meet {char2} ### FREEZE FRAME WITH DIGITAL NAME TAG ###
+	
+	char2 VO
+
+	char2 (VO): Hello, friend.
+	char2 (VO): Your life, it's not as private as you think.
+	char2 (VO): The digital world is shadowy. And this - {pans FOCUS TO cyber surveillance methods on monitors (physical or digitally edited or a mix of both)} - 
+		    this is just a reflection of the world you live in - one where privacy is an illusion.
+
+	char1 (VO): It's a world, where you do what you can get away with.
+
+	CUT TO BLACK. TITLE CARD FOR FILM (3-5 SEC)
+
+## SCRIPT END ####
+
+### SCRIPT ###
+
+	Scene2:
+
+	SCENE SETUP:
+
+	char1 in casual friend setup group of atmost 5. 
+	1. Just watched recent cinema in theaters and come out of the hall.
+	all engulfed in checking social media, posting themselves, checking others' reaction of the movie etc.
+
+					OR			
+
+	2. Exited school, fooling around in a group near a stall. all engulfed in checking social media, posting themselves, checking others' posts etc.
+
+	TIME: 5 SEC / 7 SEC(MAX)
+
+	char1 discovers exploit. initial point of contact is from threat actor(char2) via personalized messages. scene shows personal data gained by
+	char2, along with intent to use such data to exploit char1.
+
+	info includes the following:
+		pics
+		banking credentials (indirect proof)
+
+	few words of scorn, after pleading with threat actor, from victim before reporting char2 to cybercrime portal.
+
+	DURATION: 30 SEC (max)
+
+	--------------------------------------------------------------------------------
+
+	Dialogue: (Scene 2)
+	
+	char1 (VO): That's me.
+
+	(background sound - usual friend group chatter)
+	
+	char1 discovers that he has been exploited
+
+	char1 (VO): And that, is my life falling apart.
+
+### SCRIPT END ###
+
+### SCRIPT ###
+
+	Scene FINAL
+		
+		char2 gets caught off guard as char1 comes over to ask about loging in to some portal and OTP NOTICICATION LIGHTS UP ON BOTH OF THEIR PHONES SIMULTANEOUSLY
+
+		as the fact becomes obvious, a COLD CONTEMPT settles over the face of char2 as char1's face gradually evolves into a SHOCKED AND SURPRISE one, with the HURT somewhere in there.
+
+		char1 holds both of their phones together with a look that demands an explanation
+
+		char2: Wow! You really had no idea, did you? (TAKES BACK PHONE, WIPES IT OF ANY IDENTIFIABLE DATA, AND LEAVES IT (HIS WHOLE LIFE) WITH HIM)
+		
+		char2 walks away from setting {face low, backpack, hoodie/cap on}
+
+		char2 (VO): {char1}, the perfect exploit. 
+					Blinded by popularity (FLASHBACK EDIT PHOTOGRAPHIC EFFECT), 
+					naive to privacy (FLASHBACK EDIT PHOTOGRAPHIC EFFECT), and
+					impulsive, oversharer (FLASHBACK EDIT PHOTOGRAPHIC EFFECT),
+					But all he really is {PAUSE}, A VICTIM OF IGNORANCE AND DISREGARD.
+		
+
+### SCRIPT END ###
+
+	
+
+
+1. THREAT ACTOR RESEARCHES VICTIM USING OSINT(OPEN SOURCE INTELLIGENCE) AND SOCIAL ENGINEERING
+ 
+2. THREAT ACTOR SCAMS/EXPLOITS VICTIM USING INTEL GATHERED IN STEP 1, SOCIAL ENGINEERING. COLLECTS SENSITIVE INFO, BANK INFORMATION AND PERFORMS TRANSACTION TO OWN BANK USING UNTRACEABLE SWIFT ACCOUNT.
+
+3. VICTIM REALIZES AND INFORMS LAW/AUTHORITY. INCIDENT RESPONDERS ARE CALLED AND PERFORMS DIGITAL FORENSICS.	
+
+4. FORENSICS SHOW THE FOLLOWING:
+
+	INITIAL POINT OF ACCESS: MALICIOUS LINKS REDIRECTING TO TROJAN PAYLOADS DELIVERED VIA EMAIL/WA ETC.
+	
+	UNTRACEABLE C2 SERVERS CONNECTED VIA S3 BUCKETS
+
+	ACCESS LOGS IN VICTIMS SOCIAL MEDIA LEADING TO FALSE SOCIAL MEDIA/ E-ACCOUNTS.
+
+	DIGITAL FOOTPRINT OF OSINT WHICH LEADS TO  IDENTIFIABLE DIGITAL ALIAS OF THREAT ACTOR.
+
+################ TECHNICAL ############################
+
+
+ALL DATA IS ON A MALTEGO CE GRAPH ON ONE MONITOR
+OTHER TWO MONITORS WILL HAVE SPECIIC DATA
+
+### OSINT DATA GATHERED ###############################
+
+NAME: XXXX XXXXXXXXXXX
+
+M - Jio
+0XXXXXXXX XXXXX771
+
+Address
+XXXXXXX, India ⸱ Local time XX:39
+
+Email
+XXXXXXXXXXXXXXXXXX@gmail.com
+
+School: XXXXXXXX XXXXXXXX XXXXXXXXXXXXXX XXXXXXXXX
+
+
+[+]Phone Number: +91XXXXXXXX71	
+[+]Country: India
+[+]Time Zone: Asia/Calcutta
+[+]Operator: Reliance Jio
+[+]Validity: This PhoneNumber is valid.
+
+[+]Facebook Report: Not Connected
+[+]Instagram Report: Connected
+[+]Twitter Report: Not Connected
+[+]Google Report: Connected
+[+]Microsoft Report: Connected
+[+]Whatsapp Report: Connected
+
+
+🙋 Google Account data
+
+Name : **** *****************ty
+
+[+] Custom profile picture !
+=> https://lh3.googleusercontent.com/a-/AD_cMMT****************94jiAq_WaTJ08KSwH5JL0KFxzXFA
+🎭 [+] Face detected !
+
+[-] Default cover picture
+
+Last profile edit : 2023/XX/XX 05:XX:09 (UTC)
+
+Email : rXXX.XXXXXXXXty@gmail.com
+Gaia ID : 11364XXXXXX50507091
+
+[+] Activated Google services :
+- Youtube
+- Photos
+- Maps
+
+🗺 Maps data
+
+Profile page : https://www.google.com/maps/contrib/1XXXXXXXXX87150507091/reviews
+
+
+
+
+### TECHNICAL END ################################################
+
+
+5. ON FURTHER INVESTIGATION, THREAT ACTOR'S ALIAS REVEALS TO HAVE ACHIEVED FIRST CONTACT WITH VICTIM VIA SOCIAL MEDIA MESSAGING/DM'S THREE AND A HALF MONTHS BEFORE INCIDENT.
+
+6. THREAT ACTORS MEETS VICTIM IN A CASUAL SETTING PERSONAL TO THEM. 
+
+6.1 VICTIMS VERBAL REACTION TO THREAT ACTOR.
+6.2 THREAT ACTORS BLAMES FAULT ON VICTIM FOR KEEPING INFORMATION OPEN SOURCED.
+
+7. VICTIM MEETS WITH BLUE TEAM LEAD AND DISCUSSES SITUATION, AND HOW THE MESSAGE CAN BE SPREAD TO MAKE OTHERS AWARE
+
+8.MONTAGE OF MULTIPLE VICTIMS OR POTENTIAL VICTIMS LOCKING UP THEIR INFORMATION, SETTING UP PROTECTIVE MEASURES AS THE ONLY MESSAGE THAT FLASHES THE SCREEN OF OUR THREAT ACTOR IS "ACCESS DENIED" AND "NO INFORMATION"
+ 
