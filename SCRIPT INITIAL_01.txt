@@ -1,14 +1,9 @@
 
 char1 victim
-char2 threat actor
-char3 - char7 cyber defense team
-
-VO - Victim char1 POV
-
-VO - Threat Actor char2 POV
-
-	char1 (VO): ... The upper hand ...
-
+char2 threat actor - X
+char3 - forensic division head
+char4 - senior analyst
+char5 - junior analyst
 
 Ideas:
 
@@ -20,6 +15,7 @@ Ideas:
 
 as she undergoes the character change from a significant other to her underlying coldhearted threat actor.
 
+when victim discovers that he is exploited, he contacts char2 to seek advice. char2 instructs him to report it to cybercrime portal. every threat actor loves attention.
 
 ### SCRIPT #######
 	
@@ -27,9 +23,7 @@ as she undergoes the character change from a significant other to her underlying
 
 	SCENE SETUP:
 
-	char2 in own hacking setup in own home. dark setting. dimly lit. flickering neon lights. luminance by screen light.
- 
-	DIALOGUE : None
+	hacker setup. dark setting. dimly lit. flickering neon lights. luminance by screen light.
 	
 	POINTS OF FOCUS throughout scene: 
 
@@ -47,7 +41,7 @@ as she undergoes the character change from a significant other to her underlying
 	
 	Voiceover (VO) by victim, breaking fourth wall:
 	
-	char1 (VO): Hello. I know what you're thinking: "Who is this guy, and why is he talking to me?" Trust me, I'd rather not be here either, but you deserve to know my story.
+	char1 (VO): Hello. I know what you're thinking: "Who is this? Why is he talking to me?" Trust me, I'd rather not be here either, but you deserve to know my story.
 	char1 (VO): No. This is not me. 
 	char1 (VO): Meet {char2} ### FREEZE FRAME WITH DIGITAL NAME TAG ###
 	
@@ -58,7 +52,7 @@ as she undergoes the character change from a significant other to her underlying
 	char2 (VO): The digital world is shadowy. And this - {pans FOCUS TO cyber surveillance methods on monitors (physical or digitally edited or a mix of both)} - 
 		    this is just a reflection of the world you live in - one where privacy is an illusion.
 
-	char1 (VO): It's a world, where you do what you can get away with.
+	char1 (VO): It's a world, where you do whatever you can get away with.
 
 	CUT TO BLACK. TITLE CARD FOR FILM (3-5 SEC)
 
@@ -107,11 +101,36 @@ as she undergoes the character change from a significant other to her underlying
 
 ### SCRIPT ###
 
+	FORENSIC LAB SCENE
+
+		char4 is bent over, taking a deeper look at one of the screens that sit on the workdesk of the of char5 as char5 operates the lab
+		one screen (screen1) has the complete digital footprint of char1 in the form of a maltego graph with specific objects open/selected
+		another screen (screen2) has forensic tools that highlight points of access. (emails, sms, download links etc.)
+		another screen (screen3) shows identified delivery and extraction systems (game mod (android), word document (infected - for pc), parts of code that highlights C2 comm (untraceable due to heavy onion routing and encrypted s3 buckets with tight rules))
+		
+		Dialogue:
+
+		char3 walks over to the lab desk with an inquisitive but serious look
+
+		char3: What've we got?
+		
+		
+
+### SCRIPT END ###
+
+### SCRIPT ###
+
 	Scene FINAL
 		
-		char2 gets caught off guard as char1 comes over to ask about loging in to some portal and OTP NOTICICATION LIGHTS UP ON BOTH OF THEIR PHONES SIMULTANEOUSLY
+		A SCARCELY POPULATED CAFE, MID-DAY
+		
+		char1: Orders a coffee from the counter as char2 takes a seat, browsing her phone
+		char1: approaches from behind and bends beside char2, asking about a login OTP but could not finish question as the OTP notification lights up simulataneously on both phones.
 
-		as the fact becomes obvious, a COLD CONTEMPT settles over the face of char2 as char1's face gradually evolves into a SHOCKED AND SURPRISE one, with the HURT somewhere in there.
+		char2 gets caught off guard
+
+		as the fact becomes obvious, a COLD CONTEMPT settles over the face of char2
+		char1's face gradually evolves into a SHOCKED AND SURPRISE one, with the HURT somewhere in there.
 
 		char1 holds both of their phones together with a look that demands an explanation
 
@@ -149,65 +168,25 @@ as she undergoes the character change from a significant other to her underlying
 
 ################ TECHNICAL ############################
 
+KILL CHAIN VECTORS
 
-ALL DATA IS ON A MALTEGO CE GRAPH ON ONE MONITOR
-OTHER TWO MONITORS WILL HAVE SPECIIC DATA
+	RECONAISSANCE:
+		
+		OSINT
+		MALTEGO CE
+		SOCIAL ENGINEERED WITH INFO STEALER RAT
 
-### OSINT DATA GATHERED ###############################
+	DELIVERY:
+	
+		EMAIL LINK (SOCIAL ENGINEERING BASED ON THE NEXT TWO)
+		GAME MOD (PHONE)
+		WORD DOCUMENT (SCHOOL/COLLEGE PROJECT) (COMPUTER SYSTEM)
 
-NAME: XXXX XXXXXXXXXXX
-
-M - Jio
-0XXXXXXXX XXXXX771
-
-Address
-XXXXXXX, India ⸱ Local time XX:39
-
-Email
-XXXXXXXXXXXXXXXXXX@gmail.com
-
-School: XXXXXXXX XXXXXXXX XXXXXXXXXXXXXX XXXXXXXXX
-
-
-[+]Phone Number: +91XXXXXXXX71	
-[+]Country: India
-[+]Time Zone: Asia/Calcutta
-[+]Operator: Reliance Jio
-[+]Validity: This PhoneNumber is valid.
-
-[+]Facebook Report: Not Connected
-[+]Instagram Report: Connected
-[+]Twitter Report: Not Connected
-[+]Google Report: Connected
-[+]Microsoft Report: Connected
-[+]Whatsapp Report: Connected
-
-
-🙋 Google Account data
-
-Name : **** *****************ty
-
-[+] Custom profile picture !
-=> https://lh3.googleusercontent.com/a-/AD_cMMT****************94jiAq_WaTJ08KSwH5JL0KFxzXFA
-🎭 [+] Face detected !
-
-[-] Default cover picture
-
-Last profile edit : 2023/XX/XX 05:XX:09 (UTC)
-
-Email : rXXX.XXXXXXXXty@gmail.com
-Gaia ID : 11364XXXXXX50507091
-
-[+] Activated Google services :
-- Youtube
-- Photos
-- Maps
-
-🗺 Maps data
-
-Profile page : https://www.google.com/maps/contrib/1XXXXXXXXX87150507091/reviews
-
-
+	ACTIONS ON OBJECTIVES:
+		
+		DATA EXFIL (CRITICAL DATA)
+		SYSTEM MONITOR
+		COMMUNICATIONS MONITOR (SMS, CALL LOGS, FILE SYSTEM, CAMERA, MIC, LOCATION)
 
 
 ### TECHNICAL END ################################################
