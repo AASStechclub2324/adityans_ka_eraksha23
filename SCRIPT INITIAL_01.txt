@@ -41,15 +41,15 @@ when victim discovers that he is exploited, he contacts char2 to seek advice. ch
 	
 	Voiceover (VO) by victim, breaking fourth wall:
 	
-	char1 (VO): Hello. I know what you're thinking: "Who is this? Why is he talking to me?" I'd rather not be here, but you deserve to know my story.
-	char1 (VO): No. This is not me. 
+	char1 (VO): Hello. I know what you're thinking: "Who is this? Kaun he ye?" I'd rather not be here, but {??you deserve to know my story??}. This is the story of how I fell.
+	char1 (VO): No. That's not me.
 	char1 (VO): Meet {char2} ### FREEZE FRAME WITH DIGITAL NAME TAG ###
 	
 	char2 VO
 
 	char2 (VO): Hello, friend.
-	char2 (VO): Your life, it's not as private as you think.
-	char2 (VO): The digital world is shadowy. And this - {pans FOCUS TO cyber surveillance methods on monitors (physical or digitally edited or a mix of both)} - 
+	char2 (VO): Your life, it's {??not as private as you think.??} an open book.
+	char2 (VO): Our world is shadowy. And this - {pans FOCUS TO cyber surveillance methods on monitors (physical or digitally edited or a mix of both)} - 
 		    this is just a reflection of the world you live in - one where privacy is an illusion.
 
 	char1 (VO): It's a world, where you do whatever you can get away with.
@@ -93,9 +93,12 @@ when victim discovers that he is exploited, he contacts char2 to seek advice. ch
 
 	(background sound - usual friend group chatter)
 	
-	char1 discovers that he has been exploited
+	char1 (VO): The end, my end - it begins here.
 
-	char1 (VO): And that, is my life falling apart.
+	multiple debit messages of small amounts.
+	char1 steps back from friend group, confused, trying to figure it out.
+	
+	
 
 ### SCRIPT END ###
 
@@ -110,11 +113,17 @@ when victim discovers that he is exploited, he contacts char2 to seek advice. ch
 		
 		Dialogue:
 
+		
+
 		char3 walks over to the lab desk with an inquisitive but serious look
 
 		char3: What've we got?
 		
 		
+
+### SCRIPT END ###
+
+### SCRIPT ###
 
 ### SCRIPT END ###
 
@@ -134,7 +143,7 @@ when victim discovers that he is exploited, he contacts char2 to seek advice. ch
 
 		char1 holds both of their phones together with a look that demands an explanation
 
-		char2: Wow! You really had no idea, did you? (TAKES BACK PHONE, WIPES IT OF ANY IDENTIFIABLE DATA, AND LEAVES IT (HIS WHOLE LIFE) WITH HIM)
+		char2: When you think of coming after me, I suggest you take a look at the contents on that (The phone) (TAKES BACK PHONE, WIPES IT OF ANY IDENTIFIABLE DATA, AND LEAVES IT (HIS WHOLE LIFE) WITH HIM)
 		
 		char2 walks away from setting {face low, backpack, hoodie/cap on}
 
