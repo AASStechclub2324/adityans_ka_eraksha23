@@ -41,7 +41,7 @@ when victim discovers that he is exploited, he contacts char2 to seek advice. ch
 	
 	Voiceover (VO) by victim, breaking fourth wall:
 	
-	char1 (VO): Hello. I know what you're thinking: "Who is this? Why is he talking to me?" Trust me, I'd rather not be here either, but you deserve to know my story.
+	char1 (VO): Hello. I know what you're thinking: "Who is this? Why is he talking to me?" I'd rather not be here, but you deserve to know my story.
 	char1 (VO): No. This is not me. 
 	char1 (VO): Meet {char2} ### FREEZE FRAME WITH DIGITAL NAME TAG ###
 	
