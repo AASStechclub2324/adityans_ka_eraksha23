@@ -5,17 +5,7 @@ char3 - forensic division head
 char4 - senior analyst
 char5 - junior analyst
 
-Ideas:
-
-	till climax meet between char1 and char2, char1 will not know the identity of char2 as the threat actor. upon meeting, 
-
-{char1 asks char2 where she had been while his life was literally thrown inside out}, 
-		or
-{char1 begins to thank her for being there to support him after he had been exploited and humiliated}
-
-as she undergoes the character change from a significant other to her underlying coldhearted threat actor.
-
-when victim discovers that he is exploited, he contacts char2 to seek advice. char2 instructs him to report it to cybercrime portal. every threat actor loves attention.
+Note: throughout outdoor scenes of char1, there will be masked, everyday characters scattered through the scene in the background.
 
 ### SCRIPT #######
 	
@@ -30,10 +20,17 @@ when victim discovers that he is exploited, he contacts char2 to seek advice. ch
 	1. Keyboard + eyes
 	2. Monitor screen focus from beyond actor
 	3. Focus on actor with monitor out of focus but as source of light and on screen
+	
+	Monitors will have:
+	
+		Social profiles of victim
+		digital footprint of victim
+		ahmyth derivative with lab open (monitoring sms and call logs)
+		msfconsole with reverse shell to victim's devices
 
 	Type: montage
  
-	Duration: 1 min - 1 min 15 sec (max).
+	Duration: 40 secs (max).
 
 	--------------------------------------------------------------------------------
 
@@ -41,51 +38,41 @@ when victim discovers that he is exploited, he contacts char2 to seek advice. ch
 	
 	Voiceover (VO) by victim, breaking fourth wall:
 	
-	char1 (VO): Hello. I know what you're thinking: "Who is this? Kaun he ye?" I'd rather not be here, but {??you deserve to know my story??}. This is the story of how I fell.
-	char1 (VO): No. That's not me.
-	char1 (VO): Meet {char2} ### FREEZE FRAME WITH DIGITAL NAME TAG ###
+	char1 (VO): Hello. I know what you're thinking: "Who is this? Kaun he ye?" I'd rather not be here, but this is the story, of how I fell.
+	DNS #char1 (VO): No. That's not me.
+	DNS #char1 (VO): Meet {char2} ### FREEZE FRAME WITH DIGITAL NAME TAG ###
 	
 	char2 VO
 
 	char2 (VO): Hello, friend.
-	char2 (VO): Your life, it's {??not as private as you think.??} an open book.
-	char2 (VO): Our world is shadowy. And this - {pans FOCUS TO cyber surveillance methods on monitors (physical or digitally edited or a mix of both)} - 
-		    this is just a reflection of the world you live in - one where privacy is an illusion.
+	char2 (VO): Your life, it's an open book. 
+	char2 (VO): Our world is shadowy.  {pans FOCUS TO cyber surveillance methods on monitors (physical or digitally edited or a mix of both)} - 
+		    but that shadow, it's cast by your lives - one where privacy is an illusion,
+			where access is one mistake, one click away.
 
-	char1 (VO): It's a world, where you do whatever you can get away with.
+	char2 (VO): It's a world, where you do whatever you can get away with.
 
 	CUT TO BLACK. TITLE CARD FOR FILM (3-5 SEC)
 
-## SCRIPT END ####
-
-### SCRIPT ###
+## SCRIPT END ####### SCRIPT ###
 
 	Scene2:
 
 	SCENE SETUP:
 
-	char1 in casual friend setup group of atmost 5. 
-	1. Just watched recent cinema in theaters and come out of the hall.
-	all engulfed in checking social media, posting themselves, checking others' reaction of the movie etc.
+	char1 in casual friend setup group of atmost 5 people in all.
+	
+	Exited school, fooling around in a group near a stall. all engulfed in checking social media, posting themselves, checking others' posts etc. all friends wear masks, fully covering their faces.
 
-					OR			
-
-	2. Exited school, fooling around in a group near a stall. all engulfed in checking social media, posting themselves, checking others' posts etc.
-
-	TIME: 5 SEC / 7 SEC(MAX)
-
-	char1 discovers exploit. initial point of contact is from threat actor(char2) via personalized messages. scene shows personal data gained by
-	char2, along with intent to use such data to exploit char1.
+	TIME (in setup without dialogue): 5 SEC (MAX)
 
 	info includes the following:
 		pics
 		banking credentials (indirect proof)
 
-	few words of scorn, after pleading with threat actor, from victim before reporting char2 to cybercrime portal.
-
-	DURATION: 30 SEC (max)
-
 	--------------------------------------------------------------------------------
+	
+	DURATION: 1 MIN 30 SEC (max)
 
 	Dialogue: (Scene 2)
 	
@@ -93,16 +80,25 @@ when victim discovers that he is exploited, he contacts char2 to seek advice. ch
 
 	(background sound - usual friend group chatter)
 	
-	char1 (VO): The end, my end - it begins here.
+	char1 (VO): The end - it begins here.
 
 	multiple debit messages of small amounts.
 	char1 steps back from friend group, confused, trying to figure it out.
 	
+	folder of private information pop's up on airdrop. char1 takes the smallest peek and his face becomes white.
+	char1 calls up {heart}
 	
+	char1: (on phone, in a frenzy) What's this? Is this you? I swear if you are joking around....(gets cut off by char2)
+	char2: wait wait wait...what are you talking about (or "hua kya")? just take a minute...breath first and tell what's happened...slowly.
+	char1: someone just sent me a bunch of my info...my messages, my pics and YOU KNOW WHAT.
+	char2: what do you mean "sent you"? who did?
+	char1: I DON'T KNOW. THE NUMBER WON'T SHOW UP.
+	char2: check your texts. You will find the portal of a private cyber security group. send your info to them. they can help you.
+	char2: has he demanded anything yet?
+	char1: no
+	char2: if he does, don't comply. just inform whoever get's in touch with you from the security company. they can handle these types of things. don't worry. it'll be okay.
 
-### SCRIPT END ###
-
-### SCRIPT ###
+### SCRIPT END ###### SCRIPT ###
 
 	FORENSIC LAB SCENE
 
@@ -111,50 +107,95 @@ when victim discovers that he is exploited, he contacts char2 to seek advice. ch
 		another screen (screen2) has forensic tools that highlight points of access. (emails, sms, download links etc.)
 		another screen (screen3) shows identified delivery and extraction systems (game mod (android), word document (infected - for pc), parts of code that highlights C2 comm (untraceable due to heavy onion routing and encrypted s3 buckets with tight rules))
 		
+		DURATION (JUST LAB SCENE EXCLUDING FLASHBACKS): 1 MIN
+		
 		Dialogue:
 
+		char5: Found numerous points of access. 
 		
+		Focus on each initial access threat vector with flashbacks. (WORD DOCUMENT, MOD APK)
+
+		char5: Both devices have been rootkited with RATs. But I can't seem to trace where it calls back to.
+		
+		char4: That's because the C2 commands and information are proxied via that s3 bucket. Let me take a look at the rules
+		char4 takes a look at the rules of the s3 buckets (iron clad rules 403 access denied). Tries to run ip trace on other websites. Shows up on various locations throughout the world, showed graphically on a worldmap as each ip is traced.
+		
+		char4: The rules are iron clad. And all requests to this bucket have been routed extensively. We can't track this.  There's nothing you can do.
+		
+		char4: Collect the malware samples, clean the devices, close all vulnerable ports.
 
 		char3 walks over to the lab desk with an inquisitive but serious look
 
 		char3: What've we got?
+	
+### SCRIPT END ###### SCRIPT ###
+
+	DURATION: 40 SEC (MAX)
+
+	FLASHBACKS
+
+	Scene: MSDOC infection
+	
+		mid-day. char1's bedroom/study room. char1 frustrated over school project. receives infected document file on friend's group with project name as file name and a "change name and roll number message".
+		being impulsive, char1 downloads file, satisfied with himself for not having to do the tedious project by himself, and turns on "edit file" on ms word. a small window opens for a very brief period and then closes by itself as a metasploit reverse shell pops up on the hacker's computer. char1 doesn't think anything of it and changes the name and roll number on the cover page with a smug look of satisfaction.
 		
-		
+	Scene: Phone bugging
+	
+	mid-day: serene lake side.
+	char1 sits on a step with char2 beside him, both have phone in hand. mod game apk get's airdropped/social engineered onto the phone of char1 with the incentive of unlimited game currency. excited at this, char1 downloads mod as server side of the RAT lights up on hacker's computer. char1 shows to char2 that he has "hacked" the game and has unlimited gaming currency. char2 acts very impressed and amazed by her partner's skills.
 
-### SCRIPT END ###
-
-### SCRIPT ###
-
-### SCRIPT END ###
-
-### SCRIPT ###
+### SCRIPT END ###### SCRIPT ###
 
 	Scene FINAL
+		
+		Duration: 2 MIN 30 SEC
+		
+		DURATION BREAKDOWN:
+		
+		SCENE: 1 MIN 30 SEC
+		WALKOUT + MONOLOGUE: 1 MIN
 		
 		A SCARCELY POPULATED CAFE, MID-DAY
 		
 		char1: Orders a coffee from the counter as char2 takes a seat, browsing her phone
-		char1: approaches from behind and bends beside char2, asking about a login OTP but could not finish question as the OTP notification lights up simulataneously on both phones.
+		char1: while ordering, char1 receives a message from the forensic head to change the password of a particular social media platform that has been found cracked by the analyst team.
+		char1: tried forgot password and receives OTP to change password
+		char1: As char1 approaches table waiting for OTP, he looks around and spots char2's phone screen on the mirror, as OTP notification lights up on his phone as simultaneously a notification with the same OTP number and social media platform name lights up on char2's phone screen on the mirror
 
-		char2 gets caught off guard
 
-		as the fact becomes obvious, a COLD CONTEMPT settles over the face of char2
 		char1's face gradually evolves into a SHOCKED AND SURPRISE one, with the HURT somewhere in there.
+		as the fact becomes obvious, a COLD CONTEMPT settles over the face of char2
 
-		char1 holds both of their phones together with a look that demands an explanation
+		char1: drops phone on table with a look of denial, a look that demands an explanation
 
-		char2: When you think of coming after me, I suggest you take a look at the contents on that (The phone) (TAKES BACK PHONE, WIPES IT OF ANY IDENTIFIABLE DATA, AND LEAVES IT (HIS WHOLE LIFE) WITH HIM)
+		char2: (Gets up slowly wiping identifiable data from own phone) Before you do anything, I suggest you take a look at the contents on that (The phone). Leaves phone on table with a directory of exposing folders open on it, as char1 snatches it up quickly with a look of dread and fear. 
 		
-		char2 walks away from setting {face low, backpack, hoodie/cap on}
+		char2 walks away from setting {face low, backpack, hoodie/cap/mask on}
+
+		as char2 blends in faces with masks, we get the following voice over from char2
 
 		char2 (VO): {char1}, the perfect exploit. 
 					Blinded by popularity (FLASHBACK EDIT PHOTOGRAPHIC EFFECT), 
 					naive to privacy (FLASHBACK EDIT PHOTOGRAPHIC EFFECT), and
-					impulsive, oversharer (FLASHBACK EDIT PHOTOGRAPHIC EFFECT),
+					impulsive, (FLASHBACK EDIT PHOTOGRAPHIC EFFECT),
+					oversharer (FLASHBACK EDIT PHOTOGRAPHIC EFFECT),
 					But all he really is {PAUSE}, A VICTIM OF IGNORANCE AND DISREGARD.
 		
 
-### SCRIPT END ###
+### SCRIPT END ##########################################################################
+
+
+Ideas:
+
+	till climax meet between char1 and char2, char1 will not know the identity of char2 as the threat actor. upon meeting, 
+
+{char1 asks char2 where she had been while his life was literally thrown inside out}, 
+		or
+{char1 begins to thank her for being there to support him after he had been exploited and humiliated}
+
+as she undergoes the character change from a significant other to her underlying coldhearted threat actor.
+
+when victim discovers that he is exploited, he contacts char2 to seek advice. char2 instructs him to report it to cybercrime portal. every threat actor loves attention.
 
 	
 
