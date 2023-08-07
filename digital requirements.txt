@@ -1,0 +1,29 @@
+########################################################
+
+social profile of char1:
+
+Overview:
+
+	19
+	loves gaming, movies and music
+	extroverted
+	large to medium sized friend group
+
+specific posts to focus on:
+
+	1. gamer post, showing status in favourite game (favourite determined by the frequency of gaming posts)
+		not a singular post, but a series of gaming related posts which will be scrolled down by char2
+	2. status/story post, asking classmates for physics project file (word)
+	3. most posts will be in supposed friend groups (like from scene2), or just sharing of irrelevant details about char1's personal life
+		this will include posts with live location ( like exiting a shopping complex or movie theater or just school)
+		
+
+########################################################
+
+hacker screen scenes footage:
+
+SE toolkit on kali, spoofing messages, creating infected payload media
+reverse shell poping up
+social media research of victim (open social media pages + maltego ce graph)
+ahmyth lab (connection popup and lab operations)
+

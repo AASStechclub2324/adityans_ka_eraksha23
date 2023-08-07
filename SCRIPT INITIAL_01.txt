@@ -50,7 +50,7 @@ Note: throughout outdoor scenes of char1, there will be masked, everyday charact
 		    but that shadow, it's cast by your lives - one where privacy is an illusion,
 			where access is one mistake, one click away.
 
-	char2 (VO): It's a world, where you do whatever you can get away with.
+	char2 (VO): It's a world, where you do what you can get away with.
 
 	CUT TO BLACK. TITLE CARD FOR FILM (3-5 SEC)
 
@@ -127,6 +127,8 @@ Note: throughout outdoor scenes of char1, there will be masked, everyday charact
 		char3 walks over to the lab desk with an inquisitive but serious look
 
 		char3: What've we got?
+
+		char4: We have our hands tied behind our backs (frustrated, slightly angry)
 	
 ### SCRIPT END ###### SCRIPT ###
 
