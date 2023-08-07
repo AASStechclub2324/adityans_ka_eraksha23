@@ -1,0 +1,257 @@
+
+char1 victim
+char2 threat actor - X
+char3 - forensic division head
+char4 - senior analyst
+char5 - junior analyst
+
+Note: throughout outdoor scenes of char1, there will be masked, everyday characters scattered through the scene in the background.
+
+### SCRIPT #######
+	
+	Scene1: 
+
+	SCENE SETUP:
+
+	hacker setup. dark setting. dimly lit. flickering neon lights. luminance by screen light.
+	
+	POINTS OF FOCUS throughout scene: 
+
+	1. Keyboard + eyes
+	2. Monitor screen focus from beyond actor
+	3. Focus on actor with monitor out of focus but as source of light and on screen
+	
+	Monitors will have:
+	
+		Social profiles of victim
+		digital footprint of victim
+		ahmyth derivative with lab open (monitoring sms and call logs)
+		msfconsole with reverse shell to victim's devices
+
+	Type: montage
+ 
+	Duration: 40 secs (max).
+
+	--------------------------------------------------------------------------------
+
+	Dialogue: (Scene 1) 
+	
+	Voiceover (VO) by victim, breaking fourth wall:
+	
+	char1 (VO): Hello. I know what you're thinking: "Who is this? Kaun he ye?" I'd rather not be here, but this is the story, of how I fell.
+	DNS #char1 (VO): No. That's not me.
+	DNS #char1 (VO): Meet {char2} ### FREEZE FRAME WITH DIGITAL NAME TAG ###
+	
+	char2 VO
+
+	char2 (VO): Hello, friend.
+	char2 (VO): Your life, it's an open book. 
+	char2 (VO): People like me, we live in the shadow of your lives.  {pans FOCUS TO cyber surveillance methods on monitors (physical or digitally edited0 or a mix of both)} - 
+		    but that shadow, it's cast by your lives - one where privacy is just an illusion,
+			where access is one mistake, one click away.
+
+	char2 (VO): It's a world, where you do what you can get away with.
+
+	CUT TO BLACK. TITLE CARD FOR FILM (3-5 SEC)
+
+## SCRIPT END ####### SCRIPT ###
+
+	Scene2:
+
+	SCENE SETUP:
+
+	char1 in casual friend setup group of atmost 5 people in all.
+	
+	Exited school, fooling around in a group near a stall. all engulfed in checking social media, posting themselves, checking others' posts etc. all friends wear masks, fully covering their faces.
+
+	TIME (in setup without dialogue): 5 SEC (MAX)
+
+	info includes the following:
+		pics
+		banking credentials (indirect proof)
+
+	--------------------------------------------------------------------------------
+	
+	DURATION: 1 MIN 30 SEC (max)
+
+	Dialogue: (Scene 2)
+	
+	char1 (VO): That's me.
+
+	(background sound - usual friend group chatter)
+	
+	char1 (VO): The end - it begins here.
+
+	multiple debit messages of small amounts.
+	char1 steps back from friend group, confused, trying to figure it out.
+	
+	folder of private information pop's up on airdrop. char1 takes the smallest peek and his face becomes white.
+	char1 calls up {heart}
+	
+	char1: (on phone, in a frenzy) What's this? Is this you? I swear if you are joking around....(gets cut off by char2)
+	char2: wait wait wait...what are you talking about (or "hua kya")? just take a minute...breath first and tell what's happened...slowly.
+	char1: someone just sent me a bunch of my info...my messages, my pics and YOU KNOW WHAT.
+	char2: what do you mean "sent you"? who did?
+	char1: I DON'T KNOW. THE NUMBER WON'T SHOW UP.
+	char2: check your texts. You will find the portal of a private cyber security group. send your info to them. they can help you.
+	char2: has he demanded anything yet?
+	char1: no
+	char2: if he does, don't comply. just inform whoever get's in touch with you from the security company. they can handle these types of things. don't worry. it'll be okay.
+
+### SCRIPT END ###### SCRIPT ###
+
+	FORENSIC LAB SCENE
+
+		char4 is bent over, taking a deeper look at one of the screens that sit on the workdesk of the of char5 as char5 operates the lab
+		one screen (screen1) has the complete digital footprint of char1 in the form of a maltego graph with specific objects open/selected
+		another screen (screen2) has forensic tools that highlight points of access. (emails, sms, download links etc.)
+		another screen (screen3) shows identified delivery and extraction systems (game mod (android), word document (infected - for pc), parts of code that highlights C2 comm (untraceable due to heavy onion routing and encrypted s3 buckets with tight rules))
+		
+		DURATION (JUST LAB SCENE EXCLUDING FLASHBACKS): 1 MIN
+		
+		Dialogue:
+
+		char5: Found numerous points of access. 
+		
+		Focus on each initial access threat vector with flashbacks. (WORD DOCUMENT, MOD APK)
+
+		char5: Both devices have been rootkited with RATs. But I can't seem to trace where it calls back to.
+		
+		char4: That's because the C2 commands and information are proxied via that s3 bucket. Let me take a look at the rules
+		char4 takes a look at the rules of the s3 buckets (iron clad rules 403 access denied). Tries to run ip trace on other websites. Shows up on various locations throughout the world, showed graphically on a worldmap as each ip is traced.
+		
+		char4: The rules are iron clad. And all requests to this bucket have been routed extensively. We can't track this.  There's nothing you can do.
+		
+		char4: Collect the malware samples, clean the devices, close all vulnerable ports.
+
+		char3 walks over to the lab desk with an inquisitive but serious look
+
+		char3: What've we got?
+
+		char4: We have our hands tied behind our backs (frustrated, slightly angry)
+	
+### SCRIPT END ###### SCRIPT ###
+
+	DURATION: 40 SEC (MAX)
+
+	FLASHBACKS
+
+	Scene: MSDOC infection
+	
+		mid-day. char1's bedroom/study room. char1 frustrated over school project. receives infected document file on friend's group with project name as file name and a "change name and roll number message".
+		being impulsive, char1 downloads file, satisfied with himself for not having to do the tedious project by himself, and turns on "edit file" on ms word. a small window opens for a very brief period and then closes by itself as a metasploit reverse shell pops up on the hacker's computer. char1 doesn't think anything of it and changes the name and roll number on the cover page with a smug look of satisfaction.
+		
+	Scene: Phone bugging
+	
+	mid-day: serene lake side.
+	char1 sits on a step with char2 beside him, both have phone in hand. mod game apk get's airdropped/social engineered onto the phone of char1 with the incentive of unlimited game currency. excited at this, char1 downloads mod as server side of the RAT lights up on hacker's computer. char1 shows to char2 that he has "hacked" the game and has unlimited gaming currency. char2 acts very impressed and amazed by her partner's skills.
+
+### SCRIPT END ###### SCRIPT ###
+
+	Scene FINAL
+		
+		Duration: 2 MIN 30 SEC
+		
+		DURATION BREAKDOWN:
+		
+		SCENE: 1 MIN 30 SEC
+		WALKOUT + MONOLOGUE: 1 MIN
+		
+		A SCARCELY POPULATED CAFE, MID-DAY
+		
+		char1: Orders a coffee from the counter as char2 takes a seat, browsing her phone
+		char1: while ordering, char1 receives a message from the forensic head to change the password of a particular social media platform that has been found cracked by the analyst team.
+		char1: tried forgot password and receives OTP to change password
+		char1: As char1 approaches table waiting for OTP, he looks around and spots char2's phone screen on the mirror, as OTP notification lights up on his phone as simultaneously a notification with the same OTP number and social media platform name lights up on char2's phone screen on the mirror
+
+
+		char1's face gradually evolves into a SHOCKED AND SURPRISE one, with the HURT somewhere in there.
+		as the fact becomes obvious, a COLD CONTEMPT settles over the face of char2
+
+		char1: drops phone on table with a look of denial, a look that demands an explanation
+
+		char2: (Gets up slowly wiping identifiable data from own phone) Before you do anything, I suggest you take a look at the contents on that (The phone). Leaves phone on table with a directory of exposing folders open on it, as char1 snatches it up quickly with a look of dread and fear. 
+		
+		char2 walks away from setting {face low, backpack, hoodie/cap/mask on}
+
+		as char2 blends in faces with masks, we get the following voice over from char2
+
+		char2 (VO): {char1}, the perfect exploit. 
+					Blinded by popularity (FLASHBACK EDIT PHOTOGRAPHIC EFFECT), 
+					naive to privacy (FLASHBACK EDIT PHOTOGRAPHIC EFFECT), and
+					impulsive, (FLASHBACK EDIT PHOTOGRAPHIC EFFECT),
+					oversharer (FLASHBACK EDIT PHOTOGRAPHIC EFFECT),
+					But all he really is {PAUSE}, A VICTIM OF IGNORANCE AND DISREGARD.
+		
+
+### SCRIPT END ##########################################################################
+
+
+Ideas:
+
+	till climax meet between char1 and char2, char1 will not know the identity of char2 as the threat actor. upon meeting, 
+
+{char1 asks char2 where she had been while his life was literally thrown inside out}, 
+		or
+{char1 begins to thank her for being there to support him after he had been exploited and humiliated}
+
+as she undergoes the character change from a significant other to her underlying coldhearted threat actor.
+
+when victim discovers that he is exploited, he contacts char2 to seek advice. char2 instructs him to report it to cybercrime portal. every threat actor loves attention.
+
+	
+
+
+1. THREAT ACTOR RESEARCHES VICTIM USING OSINT(OPEN SOURCE INTELLIGENCE) AND SOCIAL ENGINEERING
+ 
+2. THREAT ACTOR SCAMS/EXPLOITS VICTIM USING INTEL GATHERED IN STEP 1, SOCIAL ENGINEERING. COLLECTS SENSITIVE INFO, BANK INFORMATION AND PERFORMS TRANSACTION TO OWN BANK USING UNTRACEABLE SWIFT ACCOUNT.
+
+3. VICTIM REALIZES AND INFORMS LAW/AUTHORITY. INCIDENT RESPONDERS ARE CALLED AND PERFORMS DIGITAL FORENSICS.	
+
+4. FORENSICS SHOW THE FOLLOWING:
+
+	INITIAL POINT OF ACCESS: MALICIOUS LINKS REDIRECTING TO TROJAN PAYLOADS DELIVERED VIA EMAIL/WA ETC.
+	
+	UNTRACEABLE C2 SERVERS CONNECTED VIA S3 BUCKETS
+
+	ACCESS LOGS IN VICTIMS SOCIAL MEDIA LEADING TO FALSE SOCIAL MEDIA/ E-ACCOUNTS.
+
+	DIGITAL FOOTPRINT OF OSINT WHICH LEADS TO  IDENTIFIABLE DIGITAL ALIAS OF THREAT ACTOR.
+
+################ TECHNICAL ############################
+
+KILL CHAIN VECTORS
+
+	RECONAISSANCE:
+		
+		OSINT
+		MALTEGO CE
+		SOCIAL ENGINEERED WITH INFO STEALER RAT
+
+	DELIVERY:
+	
+		EMAIL LINK (SOCIAL ENGINEERING BASED ON THE NEXT TWO)
+		GAME MOD (PHONE)
+		WORD DOCUMENT (SCHOOL/COLLEGE PROJECT) (COMPUTER SYSTEM)
+
+	ACTIONS ON OBJECTIVES:
+		
+		DATA EXFIL (CRITICAL DATA)
+		SYSTEM MONITOR
+		COMMUNICATIONS MONITOR (SMS, CALL LOGS, FILE SYSTEM, CAMERA, MIC, LOCATION)
+
+
+### TECHNICAL END ################################################
+
+
+5. ON FURTHER INVESTIGATION, THREAT ACTOR'S ALIAS REVEALS TO HAVE ACHIEVED FIRST CONTACT WITH VICTIM VIA SOCIAL MEDIA MESSAGING/DM'S THREE AND A HALF MONTHS BEFORE INCIDENT.
+
+6. THREAT ACTORS MEETS VICTIM IN A CASUAL SETTING PERSONAL TO THEM. 
+
+6.1 VICTIMS VERBAL REACTION TO THREAT ACTOR.
+6.2 THREAT ACTORS BLAMES FAULT ON VICTIM FOR KEEPING INFORMATION OPEN SOURCED.
+
+7. VICTIM MEETS WITH BLUE TEAM LEAD AND DISCUSSES SITUATION, AND HOW THE MESSAGE CAN BE SPREAD TO MAKE OTHERS AWARE
+
+8.MONTAGE OF MULTIPLE VICTIMS OR POTENTIAL VICTIMS LOCKING UP THEIR INFORMATION, SETTING UP PROTECTIVE MEASURES AS THE ONLY MESSAGE THAT FLASHES THE SCREEN OF OUR THREAT ACTOR IS "ACCESS DENIED" AND "NO INFORMATION"
+ 
