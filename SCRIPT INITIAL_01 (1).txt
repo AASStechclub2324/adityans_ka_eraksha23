@@ -44,13 +44,13 @@ Note: throughout outdoor scenes of char1, there will be masked, everyday charact
 	
 	char2 VO
 
-	char2 (VO): Hello, friend.
-	char2 (VO): Your life, it's an open book. 
-	char2 (VO): People like me, we live in the shadow of your lives.  {pans FOCUS TO cyber surveillance methods on monitors (physical or digitally edited0 or a mix of both)} - 
-		    but that shadow, it's cast by your lives - one where privacy is just an illusion,
-			where access is one mistake, one click away.
+	char2 (VO): Hello, friend. 
+	char2 (VO): People like me, we see the world differently.{pans FOCUS TO cyber surveillance methods on monitors (physical or digitally edited or a mix of both)} - 
+	char2 (VO): We live in your shadows, that little grey area where the good in your lives stop to exist.
+		    
+	char2 (VO): Gaining access, that's the easy part. (actually gains access to victim's devices on screen)
 
-	char2 (VO): It's a world, where you do what you can get away with.
+	char2 (VO): Using it, that's what I can't figure out. (char2 has all the sensitive data sitting infront of her, eyes scanning through it)
 
 	CUT TO BLACK. TITLE CARD FOR FILM (3-5 SEC)
 
@@ -85,7 +85,8 @@ Note: throughout outdoor scenes of char1, there will be masked, everyday charact
 	multiple debit messages of small amounts.
 	char1 steps back from friend group, confused, trying to figure it out.
 	
-	folder of private information pop's up on airdrop. char1 takes the smallest peek and his face becomes white.
+	folder of private information pop's up on airdrop. char1 takes the smallest peek and his face becomes white. folder name reveals sensitivity of content, along with phone numbers of "dad"/"mom"/"char2"
+
 	char1 calls up {heart}
 	
 	char1: (on phone, in a frenzy) What's this? Is this you? I swear if you are joking around....(gets cut off by char2)
@@ -111,7 +112,7 @@ Note: throughout outdoor scenes of char1, there will be masked, everyday charact
 		
 		Dialogue:
 
-		char5: Found numerous points of access. 
+		char5: Whoever it was, they were clever enough to be low key.
 		
 		Focus on each initial access threat vector with flashbacks. (WORD DOCUMENT, MOD APK)
 
@@ -170,7 +171,10 @@ Note: throughout outdoor scenes of char1, there will be masked, everyday charact
 
 		char1: drops phone on table with a look of denial, a look that demands an explanation
 
-		char2: (Gets up slowly wiping identifiable data from own phone) Before you do anything, I suggest you take a look at the contents on that (The phone). Leaves phone on table with a directory of exposing folders open on it, as char1 snatches it up quickly with a look of dread and fear. 
+		char2: (Gets up slowly wiping identifiable data from own phone) 
+
+		char2: (still clearing data from her phone) You know, I never knew what to do with what I knew. That was, till I knew what really happened on the 5th.
+		char2: Before you do anything (Kuch karne se pehle), I suggest you take a look at the contents on that (The phone). Leaves phone on table with a directory of exposing folders open on it, as char1 snatches it up quickly with a look of dread and fear. 
 		
 		char2 walks away from setting {face low, backpack, hoodie/cap/mask on}
 
