@@ -39,18 +39,16 @@ Note: throughout outdoor scenes of char1, there will be masked, everyday charact
 	Voiceover (VO) by victim, breaking fourth wall:
 	
 	char1 (VO): Hello. I know what you're thinking: "Who is this? Kaun he ye?" I'd rather not be here, but this is the story, of how I fell.
-	DNS #char1 (VO): No. That's not me.
-	DNS #char1 (VO): Meet {char2} ### FREEZE FRAME WITH DIGITAL NAME TAG ###
 	
 	char2 VO
 
-	char2 (VO): Hello, friend. 
+	char2 (VO): Hello, friend.
 	char2 (VO): People like me, we see the world differently.{pans FOCUS TO cyber surveillance methods on monitors (physical or digitally edited or a mix of both)} - 
 	char2 (VO): We live in your shadows, that little grey area where the good in your lives stop to exist.
 		    
 	char2 (VO): Gaining access, that's the easy part. (actually gains access to victim's devices on screen)
 
-	char2 (VO): Using it, that's what I can't figure out. (char2 has all the sensitive data sitting infront of her, eyes scanning through it)
+	char2 (VO): Using it, all that data, that sits open for people like us to look through, that's what I can't figure out. (char2 has all the sensitive data sitting infront of her, eyes scanning through it)
 
 	CUT TO BLACK. TITLE CARD FOR FILM (3-5 SEC)
 
@@ -112,24 +110,30 @@ Note: throughout outdoor scenes of char1, there will be masked, everyday charact
 		
 		Dialogue:
 
-		char5: Whoever it was, they were clever enough to be low key.
-		
-		Focus on each initial access threat vector with flashbacks. (WORD DOCUMENT, MOD APK)
+		char5: Whoever it was, they got in through an infected word file, and set up a fileless rootkit.
 
-		char5: Both devices have been rootkited with RATs. But I can't seem to trace where it calls back to.
+		(FLASHBACK TO WORD INFECTION SCENE)
+
+		char5: I tried to trace the malware to it's source, but the servers are popping up all over the world.
 		
-		char4: That's because the C2 commands and information are proxied via that s3 bucket. Let me take a look at the rules
-		char4 takes a look at the rules of the s3 buckets (iron clad rules 403 access denied). Tries to run ip trace on other websites. Shows up on various locations throughout the world, showed graphically on a worldmap as each ip is traced.
+		char4: The C2 commands are proxied via s3 buckets with iron clad rules.
+
+		char4: Most of his social media accounts have multiple logins from different locations.
+
+		char4 takes a look at the rules of the s3 buckets (rules 403 access denied). Tries to run ip trace on other websites. Shows up on various locations throughout the world, showed graphically on a worldmap as each ip is traced.
 		
-		char4: The rules are iron clad. And all requests to this bucket have been routed extensively. We can't track this.  There's nothing you can do.
-		
-		char4: Collect the malware samples, clean the devices, close all vulnerable ports.
+		char4: We can't track this.
+
+		char4: Collect the samples, clean the devices.
 
 		char3 walks over to the lab desk with an inquisitive but serious look
 
 		char3: What've we got?
+	
+		char4: Whoever got in, they have been there for some time. We can't trace the malware back to them. The requests have all been onion routed.
+		
+		char4: (Frustrated) I'll talk to the client. Secure his devices.
 
-		char4: We have our hands tied behind our backs (frustrated, slightly angry)
 	
 ### SCRIPT END ###### SCRIPT ###
 
@@ -146,6 +150,16 @@ Note: throughout outdoor scenes of char1, there will be masked, everyday charact
 	
 	mid-day: serene lake side.
 	char1 sits on a step with char2 beside him, both have phone in hand. mod game apk get's airdropped/social engineered onto the phone of char1 with the incentive of unlimited game currency. excited at this, char1 downloads mod as server side of the RAT lights up on hacker's computer. char1 shows to char2 that he has "hacked" the game and has unlimited gaming currency. char2 acts very impressed and amazed by her partner's skills.
+
+	Scene: Fake call
+
+	first take
+
+	mid-day/late afternoon: char2 asks char1 for phone to call her mother to tell her that to pick her up from somewhere. char1 tries to say that there is no need for that. char2 insists, saying that otherwise her mother might be angry with her, causing a row when she gets back. as char1 accepts and gives phone, char2 rings her own phone which lights up silently in her back pocket.
+
+	second take
+
+	as they are hanging out in a local hangout spot, char1 receives an automated voice call which extracts his personal details with security questions to a dating site, claiming that there had been a data breach and they needed to secure his info, but first needs to verify that it's him indeed.
 
 ### SCRIPT END ###### SCRIPT ###
 
