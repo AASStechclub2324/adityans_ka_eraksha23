@@ -120,7 +120,7 @@ Note: throughout outdoor scenes of char1, there will be masked, everyday charact
 
 		char4: Most of his social media accounts have multiple logins from different locations.
 
-		char4 takes a look at the rules of the s3 buckets (rules 403 access denied). Tries to run ip trace on other websites. Shows up on various locations throughout the world, showed graphically on a worldmap as each ip is traced.
+		char4 takes a look at the rules of the s3 buckets (rules 403 access dey
 		
 		char4: We can't track this.
 
@@ -132,7 +132,7 @@ Note: throughout outdoor scenes of char1, there will be masked, everyday charact
 	
 		char4: Whoever got in, they have been there for some time. We can't trace the malware back to them. The requests have all been onion routed.
 		
-		char4: (Frustrated) I'll talk to the client. Secure his devices.
+		char3: (Frustrated) I'll talk to the client. Secure his devices.
 
 	
 ### SCRIPT END ###### SCRIPT ###
@@ -151,6 +151,10 @@ Note: throughout outdoor scenes of char1, there will be masked, everyday charact
 	mid-day: serene lake side.
 	char1 sits on a step with char2 beside him, both have phone in hand. mod game apk get's airdropped/social engineered onto the phone of char1 with the incentive of unlimited game currency. excited at this, char1 downloads mod as server side of the RAT lights up on hacker's computer. char1 shows to char2 that he has "hacked" the game and has unlimited gaming currency. char2 acts very impressed and amazed by her partner's skills.
 
+#############################################################################################
+
+
+
 	Scene: Fake call
 
 	first take
@@ -160,6 +164,9 @@ Note: throughout outdoor scenes of char1, there will be masked, everyday charact
 	second take
 
 	as they are hanging out in a local hangout spot, char1 receives an automated voice call which extracts his personal details with security questions to a dating site, claiming that there had been a data breach and they needed to secure his info, but first needs to verify that it's him indeed.
+
+
+###############################################################################################
 
 ### SCRIPT END ###### SCRIPT ###
 
