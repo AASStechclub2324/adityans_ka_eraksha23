@@ -27,6 +27,7 @@ Note: throughout outdoor scenes of char1, there will be masked, everyday charact
 		digital footprint of victim
 		ahmyth derivative with lab open (monitoring sms and call logs)
 		msfconsole with reverse shell to victim's devices
+		cli tool bruteforcing passwords based on passed arguments
 
 	Type: montage
  
@@ -46,7 +47,7 @@ Note: throughout outdoor scenes of char1, there will be masked, everyday charact
 	char2 (VO): People like me, we see the world differently.{pans FOCUS TO cyber surveillance methods on monitors (physical or digitally edited or a mix of both)} - 
 	char2 (VO): We live in your shadows, that little grey area where the good in your lives stop to exist.
 		    
-	char2 (VO): Gaining access, that's the easy part. (actually gains access to victim's devices on screen)
+	char2 (VO): Gaining access, that's the easy part. One mistake, one click, and we see into this whole new world. (actually gains access to victim's devices on screen)
 
 	char2 (VO): Using it, all that data, that sits open for people like us to look through, that's what I can't figure out. (char2 has all the sensitive data sitting infront of her, eyes scanning through it)
 
@@ -143,7 +144,12 @@ Note: throughout outdoor scenes of char1, there will be masked, everyday charact
 
 	Scene: MSDOC infection
 	
-		mid-day. char1's bedroom/study room. char1 frustrated over school project. receives infected document file on friend's group with project name as file name and a "change name and roll number message".
+		mid-day. char1's bedroom/study room. char1 sits laid back, looking at his computer with a bored face. 
+		New mail notification arrives. Curious, he clicks on it to open mail.
+		Looks excited at seeing the thumbnail of the file. Clicks on it to download a file.
+		opens file excitedly, curious about what's inside.
+
+		receives infected document file on friend's group with project name as file name and a "change name and roll number message".
 		being impulsive, char1 downloads file, satisfied with himself for not having to do the tedious project by himself, and turns on "edit file" on ms word. a small window opens for a very brief period and then closes by itself as a metasploit reverse shell pops up on the hacker's computer. char1 doesn't think anything of it and changes the name and roll number on the cover page with a smug look of satisfaction.
 		
 	Scene: Phone bugging
@@ -172,41 +178,64 @@ Note: throughout outdoor scenes of char1, there will be masked, everyday charact
 
 	Scene FINAL
 		
-		Duration: 2 MIN 30 SEC
+		INT. A SCARCELY POPULATED CAFE. MID-DAY
 		
-		DURATION BREAKDOWN:
+		char1 seating at table, back faced to entrance, phone in hand, looking disgruntled (angry and dissatisfied).
+
+		char2 enters scene, pulls up chair, takes off cap and backpack to take a seat.
 		
-		SCENE: 1 MIN 30 SEC
-		WALKOUT + MONOLOGUE: 1 MIN
+		char2: Hey! (nervous happy)
+
+		char1: Hey. (slightly irritated, DOESN'T LOOK UP FROM PHONE as char2 takes out phone and puts on table top)
+
+		char2: I came as soon as I could.
+
+		char1: Hmm? (without looking up from phone)
+
+		drinks are served, char2 thanks waiter
+
+		char1 keeps phone on table and looks up to char2. 
+
+		char1: I received an email last sunday. (flashback to MS-DOC infection scene, followed by the story from char1's pov and forensics)
 		
-		A SCARCELY POPULATED CAFE, MID-DAY
+		char1: I didn't know what to do. So I called you up.
 		
-		char1: Orders a coffee from the counter as char2 takes a seat, browsing her phone
-		char1: while ordering, char1 receives a message from the forensic head to change the password of a particular social media platform that has been found cracked by the analyst team.
-		char1: tried forgot password and receives OTP to change password
-		char1: As char1 approaches table waiting for OTP, he looks around and spots char2's phone screen on the mirror, as OTP notification lights up on his phone as simultaneously a notification with the same OTP number and social media platform name lights up on char2's phone screen on the mirror
+		char1 receives phone call from cybersec team head
 
-
-		char1's face gradually evolves into a SHOCKED AND SURPRISE one, with the HURT somewhere in there.
-		as the fact becomes obvious, a COLD CONTEMPT settles over the face of char2
-
-		char1: drops phone on table with a look of denial, a look that demands an explanation
-
-		char2: (Gets up slowly wiping identifiable data from own phone) 
-
-		char2: (still clearing data from her phone) You know, I never knew what to do with what I knew. That was, till I knew what really happened on the 5th.
-		char2: Before you do anything (Kuch karne se pehle), I suggest you take a look at the contents on that (The phone). Leaves phone on table with a directory of exposing folders open on it, as char1 snatches it up quickly with a look of dread and fear. 
+		char1: I've to take this.
 		
-		char2 walks away from setting {face low, backpack, hoodie/cap/mask on}
+		char1 nods and talks on phone as he is told to change his passwords on certain platforms which have been breached.	
 
-		as char2 blends in faces with masks, we get the following voice over from char2
+		As char1 looks around, waiting for his otp to drop, it drops at the same time on both devices as he sees the same number pop up on his phone and the mirror
 
-		char2 (VO): {char1}, the perfect exploit. 
+		char1: Fixes his focus on char2 who, his eyes fixed on her's. char2 senses it and looks up and realizes, as all emotions drain from her face.
+
+		char2: (clicks twice on her phone as identifiable data gets wiped from her phone)
+		
+		char2: Kuch karne se pehle...
+
+		char1 tries to speed dial the cybercrime dept. to report char2 but
+
+		char2: (continued) how are you going to explain that (The phone) to them? Would you want them knowing about your new friends, about 5th? char2 Leaves phone on table as char1 drops his own phone, one click away from placing the call, and snatches her phone up quickly with a look of dread and fear, takes one look and places it face down on the table.
+
+		char1: (teary eyed, angry, fearful, whispering) Please don't do this. (Desparate to stay in control)
+
+		char2 slowly puts on cap and stands up. char1 stands up too hurriedly.
+
+		char2, all emotion drained from her face, staring coldly into char1's eyes
+
+		char2: I can't help you. (clicks on her other phone as char1 tries deparately tries to control the phone left behind by char2 with his data on it.)
+		
+		char2 walks away from setting slowly {face low, backpack, cap on}
+
+		we get the following voice over from char2
+
+		char2 (VO): The perfect exploit. 
 					Blinded by popularity (FLASHBACK EDIT PHOTOGRAPHIC EFFECT), 
 					naive to privacy (FLASHBACK EDIT PHOTOGRAPHIC EFFECT), and
 					impulsive, (FLASHBACK EDIT PHOTOGRAPHIC EFFECT),
 					oversharer (FLASHBACK EDIT PHOTOGRAPHIC EFFECT),
-					But all he really is {PAUSE}, A VICTIM OF IGNORANCE AND DISREGARD.
+					But all he really was {PAUSE}, A VICTIM OF IGNORANCE, about his life, about the shadows that lurk in our world, ready to pounce, should you leave it to chance.
 		
 
 ### SCRIPT END ##########################################################################
